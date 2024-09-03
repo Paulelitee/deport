@@ -20,7 +20,7 @@ export default function SinglePost() {
                 Hello World!
             </h1>
             <p>
-                This is my site where i try and post what i am up to and how to fo things with code. you can follow along with RSS by hitting the "follow" button up above or if you are only interested in stuff i wrote about, check out writing.
+                This is my site where i try and post what i am up to and how to fo things with code. you can follow along with RSS by hitting the  button up above or if you are only interested in stuff i wrote about, check out writing.
             </p>
             <div>
                 
